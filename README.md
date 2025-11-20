@@ -2,6 +2,8 @@
 
 <p>I am a Full Stack Web Developer from <img src="https://img.icons8.com/color/48/000000/portugal-circular.png" width="13"/> <b>Guimarães, Portugal</b>.</p>
 
+Having fun with my own projects using <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" alt="Laravel"> as the main tool to create them.
+
 ### You can find me here
 <a href="https://www.linkedin.com/in/rui-filipe-marques/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Page"></a>
 
